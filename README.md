@@ -6,5 +6,3 @@ Nivel Int
 Contingencia S[100]
 Copiado S[100]
 
-User: root
-Password: R00Tp45s!
