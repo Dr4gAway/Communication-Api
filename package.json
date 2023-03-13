@@ -1,0 +1,21 @@
+{
+  "name": "Hayashi",
+  "version": "1.0.0",
+  "description": "Id\r Projeto Int\r Descrição S[200]\r Aplicação S[100]\r Nivel Int\r Contingencia S[100]\r Copiado S[100]",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21",
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.1.4"
+  },
+  "type": "module"
+}
